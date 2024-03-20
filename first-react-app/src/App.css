@@ -36,3 +36,55 @@
     transform: rotate(360deg);
   }
 }
+
+.App-btn {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 2rem;
+}
+.btn1{
+  border: #61dafb solid 5px;
+  background: #61dafb;
+  color: blue;
+  border-radius: 30px;
+  width: 50%;
+  font-size: 20px;
+  font-weight: 700;
+}
+.btn2{
+  border: #08e526 solid 5px;
+  background: #08e526;
+  color: rgb(1, 77, 1);
+  border-radius: 30px;
+  width: 50%;
+  font-size: 20px;
+  font-weight: 700;
+}
+.btn3{
+  border: #8a03d3 solid 5px;
+  background: #8a03d3;
+  color: #291c3b;
+  border-radius: 30px;
+  width: 50%;
+  font-size: 20px;
+  font-weight: 700;
+}
+.btn4{
+  border: #e90bc0 solid 5px;
+  background: #e90bc0;
+  color: #350129;
+  border-radius: 30px;
+  width: 50%;
+  font-size: 20px;
+  font-weight: 700;
+  
+}
+.btn5{
+  border: #ea1919 solid 5px;
+  background: #ea1919;
+  color: #4a0101;
+  border-radius: 30px;
+  width: 50%;
+  font-size: 20px;
+  font-weight: 700;
+}
